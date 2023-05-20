@@ -1,1 +1,1 @@
- 'Hi! I am srinjoy som from ece branch my roll no is 220102097.I am from west bengal.'  
+ 'Hi! I am srinjoy som from ece branch my roll no is 220102097.I am from west bengal.I am contributing to open source beacause i expect that inn future i can get help from people inn github when i am stuck with some project .I can also work for a bigger project collaborating with other persons and also can contribute to others project.So i think this experience will help me.'  
